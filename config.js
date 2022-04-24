@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['12135521010', 'Dinesh_Valor🇮🇳', true]
+  ['12135521010', 'OH.OK | ^_^', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = ['12135521010'] // Want some help?
@@ -31,7 +31,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'wa.me/12135521010'
-global.author = 'Valor Game'
+global.author = 'OH.OK | ^_^'
 
 global.multiplier = 69 // The higher, The harder levelup
 
